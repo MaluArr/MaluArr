@@ -24,8 +24,8 @@ allowing me to apply theoretical concepts in practical and collaborative project
 
 ## How to reach me
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/maria-l-138b51264/))
-- Email: mluisarruda@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/maria-l-138b51264/)
+- [Email](mailto:mluisarruda@hotmail.com)
 - GitHub: @MaluArr
 
 ## Tech Stack & Tools
